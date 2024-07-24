@@ -4,7 +4,7 @@
 Our GP 
 
 <!-- Contributors -->
-## <img  align= center width=60px src="https://media4.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"> Contributors <a id = "contributors"></a>
+## <img  align= center width=60px src="https://www.123code.org/images/fields/GIF/coding.gif"> Contributors <a id = "contributors"></a>
 
 <!-- Contributors list -->
 <table align="center" >
@@ -16,5 +16,7 @@ Our GP
   </tr>
 </table>
 
-## <img  align= center width=60px height=60px src="https://media1.giphy.com/media/ggoKD4cFbqd4nyugH2/giphy.gif?cid=6c09b9527jpi8kfxsj6eswuvb7ay2p0rgv57b7wg0jkihhhv&rid=giphy.gif&ct=s"> License <a id = "license"></a>
-This software is licensed under MIT License, See [License](https://github.com/BasmaElhoseny01/Dell-Hacktrick/blob/main/LICENSE) for more information ©Basma Elhoseny.
+
+
+## <img  align= center height=60px src="https://cdn-icons-png.freepik.com/512/1046/1046441.png"> License <a id = "license"></a>
+This software is licensed under MIT License, See [License](https://github.com/BasmaElhoseny01/X-Reporto/blob/main/LICENSE) for more information ©Basma Elhoseny.
