@@ -1,3 +1,9 @@
 [submodule "X-Reporto-AI"]
 	path = X-Reporto-AI
 	url = https://github.com/BasmaElhoseny01/X-Reporto-AI
+[submodule "X-Reporto-Frontend"]
+	path = X-Reporto-Frontend
+	url = https://github.com/BasmaElhoseny01/X-Reporto-Frontend
+[submodule "X-Reporto-Backend"]
+	path = X-Reporto-Backend
+	url = https://github.com/BasmaElhoseny01/X-Reporto-Backend
