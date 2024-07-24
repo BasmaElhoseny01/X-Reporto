@@ -53,6 +53,7 @@
     <td><img height="55" src="https://reactrouter.com/_brand/react-router-stacked-color.png"/></td>
     <td><img height="70" src="https://redux.js.org/img/redux-logo-landscape.png"/></td>
     <td><img height="70" src="https://github.com/user-attachments/assets/30b73649-3292-4797-975b-26d1ba1b3677"/></td>
+    <td><img height="60" src="https://github.com/user-attachments/assets/7a7ee3e6-67c4-42f5-9e7c-975a698eae88"/></td>
   </tr>
 </table>
 
