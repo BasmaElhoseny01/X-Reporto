@@ -95,7 +95,7 @@
     curl -o /models/heat_map.pth https://path-to-your-models/heat_map_best.pth
     ```
 
-4. **Run AI Server** (port 8001)
+4. **Run AI Server**
     ```bash
     python -m src.app
     ```
@@ -113,7 +113,7 @@
     pip install -r requirements.txt
     ```
 
-3. **Start the Backend Server** (port 8000)
+3. **Start the Backend Server**
     ```bash
     # Command to start the backend server
     ```
@@ -131,7 +131,7 @@
     npm install
     ```
 
-3. **Start the Client Server** (port 3000)
+3. **Start the Client Server**
     ```bash
     npm start
     ```
