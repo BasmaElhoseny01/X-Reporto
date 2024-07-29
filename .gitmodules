@@ -7,6 +7,6 @@
 [submodule "X-Reporto-Backend"]
 	path = X-Reporto-Backend
 	url = https://github.com/BasmaElhoseny01/X-Reporto-Backend
-[submodule "Graduation-Project-ML"]
-	path = Graduation-Project-ML
+[submodule "X-Reporto-ML"]
+	path = X-Reporto-ML
 	url = https://github.com/AhmedHosny2024/Graduation-Project-ML
