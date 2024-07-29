@@ -10,3 +10,6 @@
 [submodule "X-Reporto-ML"]
 	path = X-Reporto-ML
 	url = https://github.com/AhmedHosny2024/Graduation-Project-ML
+[submodule "Graduation-Project-ML"]
+	path = Graduation-Project-ML
+	url = https://github.com/AhmedHosny2024/Graduation-Project-ML
