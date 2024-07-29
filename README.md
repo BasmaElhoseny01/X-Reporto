@@ -65,6 +65,7 @@
 - **[AI Repository](https://github.com/BasmaElhoseny01/X-Reporto-AI)**: Contains all the AI modules for the X-ray analysis project, including object detection, classifiers, heatmap generation, and denoising models.
 - **[Frontend Repository](https://github.com/BasmaElhoseny01/X-Reporto-Frontend)**: Includes the user interface for the X-ray application, designed using React and Ant Design. It handles the presentation and interaction aspects of the application.
 - **[Backend Repository](https://github.com/BasmaElhoseny01/X-Reporto-Backend)**: Hosts the server-side code and APIs for the X-ray project, built with Flask/FastAPI. It manages data processing, model inference, and interactions between the frontend and AI components.
+- **[ML Repository](https://github.com/AhmedHosny2024/Graduation-Project-ML)**: Contains all the ML modules for the X-ray analysis project, including object detection, feature extraction and denoising models.
 
 <!-- Getting Started -->
 ## <img align="center" width="60px" height="60px" src="https://media3.giphy.com/media/wuZWV7keWqi2jJGzdB/giphy.gif?cid=6c09b952wp4ev7jtywg3j6tt7ec7vr3piiwql2vhrlsgydyz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s"> Get Started <a id="started"></a>
